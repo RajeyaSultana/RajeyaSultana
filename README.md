@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I am a Java Full Stack Developer enthusiast with a strong interest in software development. I am doing Java Full Stack Development training and gained hands-on experience with Java, JDBC, Servlets, Spring Boot, SQL, HTML, CSS, JavaScript, and Manual Testing.
+I am a Java Full Stack Developer enthusiast with a strong interest in software development. I am doing Java Full Stack Development training and gained hands-on experience with Java, JDBC, Servlets, Hibernate, Spring, Spring Boot, SQL, HTML, CSS, JavaScript, and Manual Testing.
 
 I enjoy building applications, improving my programming skills, and exploring new technologies. I am currently looking for opportunities to begin my career as a Front-end Developer / Java Developer / Full Stack Developer.
 
@@ -32,6 +32,7 @@ I enjoy building applications, improving my programming skills, and exploring ne
 - Advanced Java
 - JDBC
 - Servlets
+- Hibernate
 - Spring Framework
 - Spring Boot
 
