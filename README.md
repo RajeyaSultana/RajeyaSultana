@@ -1,16 +1,135 @@
-## Hi there 👋
+# Hi, I'm Rajeya Sultana Shaik 👋
 
-<!--
-**RajeyaSultana/RajeyaSultana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer | Java | Spring Boot | SQL | Web Development
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Java Full Stack Developer enthusiast with a strong interest in software development. I am doing Java Full Stack Development training and gained hands-on experience with Java, JDBC, Servlets, Spring Boot, SQL, HTML, CSS, JavaScript, and Manual Testing.
+
+I enjoy building applications, improving my programming skills, and exploring new technologies. I am currently looking for opportunities to begin my career as a Front-end Developer / Java Developer / Full Stack Developer.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Graduate in Mechanical Engineering (2024)
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning advanced Spring Boot, REST APIs, and backend development
+- 🔍 Interested in Java Development and Full Stack Development
+- 🚀 Passionate about writing clean and efficient code
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- SQL
+- JavaScript
+
+### Backend Technologies
+- Core Java
+- Advanced Java
+- JDBC
+- Servlets
+- Spring Framework
+- Spring Boot
+
+### Frontend Technologies
+- HTML5
+- CSS3
+- JavaScript
+
+### Database
+- MySQL
+
+### Testing
+- Manual Testing
+- Functionality Testing
+- Regression Testing
+- Integration Testing
+- System Testing
+- Adhoc Testing
+- Test Case Writing
+- Bug Reporting
+- SDLC
+- STLC
+
+### Tools
+- Git & GitHub
+- Eclipse
+- VS Code
+- MySQL Workbench
+
+---
+
+## 🚀 Projects
+
+### 🧮 Calculator Application
+
+**Technologies Used:**
+Java | HTML | CSS | JavaScript
+
+A simple calculator application developed to perform basic arithmetic operations with a clean and user-friendly interface.
+
+### Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- User-friendly design
+- Basic input handling
+
+Repository:
+
+
+---
+
+### 🎵 Music Album Application
+
+**Technologies Used:**
+Java | HTML | CSS | JavaScript
+
+A music album application developed to display and manage music-related information.
+
+### Features:
+- Display album details
+- Organize songs and artists
+- User-friendly interface
+- Structured data management
+
+Repository:
+
+
+---
+
+## 📚 Currently Learning
+
+- Spring Boot Advanced Concepts
+- REST API Development
+- Automation Testing
+---
+
+## 📈 Goals
+
+- Build scalable and efficient applications
+- Improve backend development skills
+- Contribute to open-source projects
+- Start my professional journey as a Software Developer
+
+---
+
+## 📊 GitHub Stats
+
+![RAJEYA SULTANA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajeyaSultana&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+Email:
+shaikrajeyasulthana16@gmail.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
