@@ -122,7 +122,7 @@ https://github.com/RajeyaSultana/Music-Album-project
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RajeyaSultana&show_icons=true&theme=tokyonight)
+![Sultana stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RajeyaSultana&show_icons=true&theme=tokyonight)
 
 ---
 
