@@ -81,7 +81,7 @@ A simple calculator application developed to perform basic arithmetic operations
 - Basic input handling
 
 Repository:
-
+https://github.com/RajeyaSultana/Calculator-project
 
 ---
 
