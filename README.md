@@ -78,6 +78,7 @@ A simple calculator application developed to perform basic arithmetic operations
 - Multiplication
 - Division
 - User-friendly design
+- Custom theme change(light/dark)
 - Basic input handling
 
 Repository:
@@ -94,7 +95,6 @@ A music album application developed to display and manage music-related informat
 
 ### Features:
 - Display album details
-- Organize songs and artists
 - User-friendly interface
 - Structured data management
 
